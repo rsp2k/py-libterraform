@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "libterraform"
-version = "0.8.0"
+version = "0.8.1"
 description = "Python binding for Terraform."
 authors = ["Prodesire <wangbinxin001@126.com>"]
 license = "MIT"
@@ -19,6 +19,7 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
     "Topic :: Software Development :: Libraries",
     "Operating System :: MacOS :: MacOS X",
     "Operating System :: POSIX",
